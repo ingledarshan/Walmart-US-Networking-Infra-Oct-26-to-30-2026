@@ -1,0 +1,80 @@
+{
+  "created_at": "2026-08-25T00:31:28.308949+00:00",
+  "course_use": "Day 3 enterprise RAG, tool calling, MCP, and model adaptation lab",
+  "provenance_statement": "All operational facts and examples are sourced from public Walmart Global Tech or Walmart-originated L3AF project materials. No internal Walmart runbook, configuration, incident, topology, monitoring record, credential, or production state is claimed or fabricated.",
+  "limitations": [
+    "Public sources are educational substitutes for authorized internal enterprise sources.",
+    "GitHub issues are software project issue records, not Walmart production incidents.",
+    "The sample l3afd configuration is upstream example configuration, not a Walmart deployment."
+  ],
+  "record_count": 81,
+  "historical_issue_count": 37,
+  "corpus_sha256": "082975dd2ee767e9aef6fb5c8d8a5520732d58c444846af4da327b96366ad131",
+  "sources": [
+    {
+      "path": "work/session3_sources/walmart_open_source_network.html",
+      "sha256": "25b5310df0faf8557dd8e874b94583bff0b9b1162261f789d2e60c65770fb122",
+      "bytes": 116433
+    },
+    {
+      "path": "work/session3_sources/l3afd/README.md",
+      "sha256": "87e7b7aa24c327589ceea0587c49f1491e726f3f66fac83772688b3276c1cc56",
+      "bytes": 3103
+    },
+    {
+      "path": "work/session3_sources/l3afd/LICENSE",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357
+    },
+    {
+      "path": "work/session3_sources/l3afd/docs/prod-deploy-guide.md",
+      "sha256": "6b30732df6c18891c07a7bf6e1a852716413a5f95b9a02f7c5463233a4094298",
+      "bytes": 2207
+    },
+    {
+      "path": "work/session3_sources/l3afd/docs/graceful-restart-guide.md",
+      "sha256": "46a7b1814ffe7dacc9a07e2faa3869d40c5f04503508bdac5d7fa43eeb37103e",
+      "bytes": 2361
+    },
+    {
+      "path": "work/session3_sources/l3afd/docs/configdoc.md",
+      "sha256": "77487f03767089b6eb8f1e68b3e8a68ac570a623c5860106501b4aa26cc2ef8e",
+      "bytes": 13035
+    },
+    {
+      "path": "work/session3_sources/l3afd/docs/swagger.yaml",
+      "sha256": "1dcb6b4f26fbb5144fd606a76329b68f11336561d23177000c8e1305be3b3bdb",
+      "bytes": 8964
+    },
+    {
+      "path": "work/session3_sources/l3afd/config/l3afd.cfg",
+      "sha256": "5db6a7e3c1a8f39f515951bea96a4ef517c1b94fac55a8584e654605ef941635",
+      "bytes": 1876
+    },
+    {
+      "path": "work/session3_sources/ebpf-package-repository/README.md",
+      "sha256": "d4e5af8c3f97b6d92bb593d220d68eba5cdd239dc0fee096e053cd3a59c08c4f",
+      "bytes": 1364
+    },
+    {
+      "path": "work/session3_sources/l3afd_issues_all.json",
+      "sha256": "0c76c809176b9c5ce94458e9eafacc775a138fc02f73537f37d6c51015a84756",
+      "bytes": 1157205
+    },
+    {
+      "path": "work/session3_sources/l3afd_issues_page2.json",
+      "sha256": "17d2ce2daebae4e54a068a7be13e057e7112da81806739ac2e61143df8bdeac6",
+      "bytes": 1048455
+    },
+    {
+      "path": "work/session3_sources/l3afd_issues_page3.json",
+      "sha256": "eb6dd94f49659e278041c9f1ba1b8fc74a6e076a93f0144e67e20f98a116eff3",
+      "bytes": 966898
+    },
+    {
+      "path": "work/session3_sources/l3afd_commits.json",
+      "sha256": "c459cdd3dfd6aa381941fa775e72569e1e7283d921ac33f3a59f3e1e13c659f7",
+      "bytes": 191062
+    }
+  ]
+}
